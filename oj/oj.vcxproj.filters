@@ -81,10 +81,13 @@
     <ClCompile Include="1032.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1017.cpp">
+    <ClCompile Include="function.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="function.cpp">
+    <ClCompile Include="1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1017答案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

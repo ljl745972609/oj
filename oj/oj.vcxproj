@@ -128,7 +128,8 @@
     <ClCompile Include="1014答案.cpp" />
     <ClCompile Include="1015.cpp" />
     <ClCompile Include="1015答案.cpp" />
-    <ClCompile Include="1017.cpp" />
+    <ClCompile Include="1017答案.cpp" />
+    <ClCompile Include="1018.cpp" />
     <ClCompile Include="1019答案.cpp" />
     <ClCompile Include="1020答案.cpp" />
     <ClCompile Include="1021.cpp" />
