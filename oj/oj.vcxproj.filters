@@ -84,10 +84,19 @@
     <ClCompile Include="function.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1018.cpp">
+    <ClCompile Include="1017答案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1017答案.cpp">
+    <ClCompile Include="1018答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1038答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1034答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1039答案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

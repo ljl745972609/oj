@@ -129,12 +129,15 @@
     <ClCompile Include="1015.cpp" />
     <ClCompile Include="1015答案.cpp" />
     <ClCompile Include="1017答案.cpp" />
-    <ClCompile Include="1018.cpp" />
+    <ClCompile Include="1018答案.cpp" />
     <ClCompile Include="1019答案.cpp" />
     <ClCompile Include="1020答案.cpp" />
     <ClCompile Include="1021.cpp" />
     <ClCompile Include="1029.cpp" />
     <ClCompile Include="1029答案.cpp" />
+    <ClCompile Include="1034答案.cpp" />
+    <ClCompile Include="1038答案.cpp" />
+    <ClCompile Include="1039答案.cpp" />
     <ClCompile Include="2.cpp" />
     <ClCompile Include="1032.cpp" />
     <ClCompile Include="3.cpp" />
