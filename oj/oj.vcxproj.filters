@@ -78,9 +78,6 @@
     <ClCompile Include="1029答案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1032.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="function.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -97,6 +94,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1039答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1040答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1042答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1032答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1047答案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1048答案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

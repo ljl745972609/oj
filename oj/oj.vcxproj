@@ -138,8 +138,13 @@
     <ClCompile Include="1034答案.cpp" />
     <ClCompile Include="1038答案.cpp" />
     <ClCompile Include="1039答案.cpp" />
+    <ClCompile Include="1040答案.cpp" />
+    <ClCompile Include="1042答案.cpp" />
+    <ClCompile Include="1047.cpp" />
+    <ClCompile Include="1047答案.cpp" />
+    <ClCompile Include="1048答案.cpp" />
     <ClCompile Include="2.cpp" />
-    <ClCompile Include="1032.cpp" />
+    <ClCompile Include="1032答案.cpp" />
     <ClCompile Include="3.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="test.cpp" />
